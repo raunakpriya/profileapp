@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "942E30FB-67A0-4F55-8DB2-D29D2FC00C8F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "152C817B-FA5B-46E5-A524-6B2C040B6327"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portfolio/Code/View/Support Views/MusicView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01436E98-5FD9-4978-A2FF-2ECAE9E324F0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portfolio/Code/View/Support Views/MusicView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "01436E98-5FD9-4978-A2FF-2ECAE9E324F0 - 6438005e2ed7099e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in Portfolio.MusicView.body.getter : some"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/MusicView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "358">
+               </Location>
+               <Location
+                  uuid = "01436E98-5FD9-4978-A2FF-2ECAE9E324F0 - af1efb626323b7d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Portfolio.Quote) -&gt; SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in Portfolio.MusicView.body.getter : some"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/MusicView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "147">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E673FA3F-533B-4D35-BA8E-625584D10CBE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portfolio/Code/View/Support Views/ViewRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "ViewRouter"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "E673FA3F-533B-4D35-BA8E-625584D10CBE - d6caa93821716f13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portfolio.ViewRouter.deinit"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/ViewRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "E673FA3F-533B-4D35-BA8E-625584D10CBE - ddfe2cc6dee5d7b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portfolio.ViewRouter.__deallocating_deinit"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/ViewRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "E673FA3F-533B-4D35-BA8E-625584D10CBE - 60e1e16af7631583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portfolio.ViewRouter.__allocating_init() -&gt; Portfolio.ViewRouter"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/ViewRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E673FA3F-533B-4D35-BA8E-625584D10CBE - a49bfc96a6639eba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Portfolio.ViewRouter.init() -&gt; Portfolio.ViewRouter"
+                  moduleName = "Portfolio"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harshraj/Desktop/Portfolio/Portfolio/Code/View/Support%20Views/ViewRouter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "6"
+                  endingLineNumber = "6"
+                  offsetFromSymbolStart = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8E536ED7-1328-422E-8841-CFFF615EE035"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portfolio/Code/Controllers/PortfolioApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5719CB2A-CBD3-4B5D-8CF0-D2D59968F4BA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Portfolio/Code/View/PortfolioView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
