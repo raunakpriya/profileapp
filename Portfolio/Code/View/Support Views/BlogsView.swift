@@ -1,9 +1,3 @@
-//
-//  BlogsView.swift
-//  Portfolio
-//
-//  Created by Harsh Raj on 13/01/23.
-//
 
 import SwiftUI
 

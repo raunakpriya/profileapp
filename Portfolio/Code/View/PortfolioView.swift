@@ -17,7 +17,6 @@ struct PortfolioView: View {
                     NotificationView(localNotification: LocalNotification(), notificationCenter: NotificationCenter())
                         .padding(.top, 32)
                         .padding(.leading, 50)
-                    SpotifiyView()
                     SkillsView(skills: appModel.portfolio.skills, width: UIScreen.main.bounds.width - 48)
                         .padding(.top, 32)
                     ExperiencesView(experiences: appModel.portfolio.experiences)

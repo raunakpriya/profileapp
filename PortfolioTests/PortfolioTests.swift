@@ -1,9 +1,3 @@
-//
-//  PortfolioTests.swift
-//  PortfolioTests
-//
-//  Created by Harsh Raj on 12/01/23.
-//
 
 import XCTest
 
